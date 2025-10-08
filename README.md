@@ -53,7 +53,7 @@ Program to implement the given logic function and to verify its operations in qu
 
 **F2**
 
-<img width="805" height="541" alt="{B7E0050A-92AD-4D89-A127-A59AB977750F}" src="https://github.com/user-attachments/assets/a90ebe5a-94b7-463c-9163-adb03661e0b9" />
+<img width="1208" height="631" alt="{B6D58AC2-F729-43F7-BBDD-5A21ECBC6283}" src="https://github.com/user-attachments/assets/1813354c-01f6-4c0b-9698-b20f9f3689b5" />
 
 **TRUTH TABLE**
 
