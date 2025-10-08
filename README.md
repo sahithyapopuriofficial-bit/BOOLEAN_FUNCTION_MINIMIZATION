@@ -37,7 +37,9 @@ Program to implement the given logic function and to verify its operations in qu
 
 **Developed by:POPURI SAHITHYA RegisterNumber:25004681**
 
-<img width="446" height="232" alt="{7ED0D27C-9FA4-4640-B706-D2E54A5629E6}" src="https://github.com/user-attachments/assets/462a4ca2-bb9e-4c40-8f1b-ecbf44e56ae7" />
+<img width="1540" height="739" alt="{CC7A93C9-C9BD-4E39-958C-B5C56E41C734}" src="https://github.com/user-attachments/assets/8d2aa745-8aa3-40d0-a601-7f6ef76eec71" />
+
+<img width="1071" height="528" alt="{8B6D697F-987A-44B5-9FFB-CB5B594E786E}" src="https://github.com/user-attachments/assets/ec978b7d-d4a1-466f-a7d0-a6b007f9b4f1" />
 
 
 **Output:**
@@ -46,7 +48,8 @@ Program to implement the given logic function and to verify its operations in qu
 
 **F1**
 
-<img width="749" height="585" alt="{B8AAE6E6-780E-4811-8C6B-972851C19225}" src="https://github.com/user-attachments/assets/fbce92a9-e9d4-4e57-bab5-6d0efd00bbbb" />
+<img width="1920" height="962" alt="{B94EE6C0-DCD0-4744-9F1C-0E8F383EC0F6}" src="https://github.com/user-attachments/assets/24018cb7-48b7-4857-82f9-538defc25d81" />
+
 
 **F2**
 
